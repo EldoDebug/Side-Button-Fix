@@ -1,0 +1,16 @@
+[
+{
+  "modid": "sidebuttonfix",
+  "name": "SideButtonFix",
+  "description": "Fix Mouse Side button bug",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["EldoDebug"],
+  "credits": "Sk1erLLC, TheKodeToad, EldoDebug",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

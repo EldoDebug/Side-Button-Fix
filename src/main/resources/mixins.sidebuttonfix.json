@@ -1,0 +1,9 @@
+{
+    "package": "me.eldodebug.sidebuttonfix.mixin.mixins",
+    "refmap": "mixins.sidebuttonfix.refmap.json",
+    "compatibilityLevel": "JAVA_8",
+    "mixins": [
+      "gui.MixinGuiContainer",
+      "lwjgl.MixinWindowsDisplay"
+    ]
+  }
